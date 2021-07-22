@@ -2,9 +2,6 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
-      "settings": {
-        "desktop_text_box_position": "flex-end"
-      },
       "blocks": {
         "heading": {
           "type": "heading",
@@ -17,44 +14,196 @@
           "settings": {
             "button_label_1": "Shop all",
             "button_link_1": "shopify:\/\/collections\/all",
-            "button_label_2": ""
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
         "heading",
         "button"
-      ]
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mini-doberman-pinscher-face.jpg",
+        "image_2": "shopify:\/\/shop_images\/pug-life.jpg",
+        "desktop_text_box_position": "flex-end",
+        "color_scheme": "accent-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
     },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products"
+        "title": "Featured products",
+        "collection": "hats",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_vendor": false
       }
     },
     "image_text": {
       "type": "image-with-text",
       "blocks": {
         "heading": {
-          "type": "heading"
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
         },
         "text": {
-          "type": "text"
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
         },
         "button": {
-          "type": "button"
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "heading",
         "text",
         "button"
-      ]
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pet-dogs.jpg",
+        "height": "adapt",
+        "color_scheme": "background-2",
+        "layout": "image_first"
+      }
+    },
+    "1626900438e33d33f6": {
+      "type": "multicolumn",
+      "blocks": {
+        "1626900438e33d33f6-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1626900438e33d33f6-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1626900438e33d33f6-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1626900438e33d33f6-0",
+        "1626900438e33d33f6-1",
+        "1626900438e33d33f6-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "1626900459ff6b2e8e": {
+      "type": "rich-text",
+      "blocks": {
+        "1626900459ff6b2e8e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "medium"
+          }
+        },
+        "1626900459ff6b2e8e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1626900459ff6b2e8e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1626900459ff6b2e8e-0",
+        "1626900459ff6b2e8e-1",
+        "1626900459ff6b2e8e-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true
+      }
+    },
+    "1626900509a8e3a7e9": {
+      "type": "page",
+      "settings": {
+        "page": ""
+      }
+    },
+    "162690052372125327": {
+      "type": "newsletter",
+      "blocks": {
+        "162690052372125327-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails"
+          }
+        },
+        "162690052372125327-1": {
+          "type": "paragraph",
+          "settings": {
+            "paragraph": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "162690052372125327-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "162690052372125327-0",
+        "162690052372125327-1",
+        "162690052372125327-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
     "image_banner",
     "featured_products",
-    "image_text"
+    "image_text",
+    "1626900438e33d33f6",
+    "1626900459ff6b2e8e",
+    "1626900509a8e3a7e9",
+    "162690052372125327"
   ]
 }
