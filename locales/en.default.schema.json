@@ -440,6 +440,17 @@
         "name": "Blog posts"
       }
     },
+    "featured-video": {
+      "name": "Featured Video",
+      "settings": {
+        "videoSrc": {
+          "label": "Video Url"
+        }
+      },
+      "presets": {
+        "videoSrc": "https://www.youtube.com/watch?v=dIP7wWY4Znw"
+      }
+    },
     "featured-collection": {
       "name": "Featured collection",
       "settings": {
