@@ -1,10 +1,10 @@
-<div className='featured-video'>
-    <video src = section.settings.videoSrc> </video>
+<div >
+    <video src ='{{section.settings.videoSrc}}'> </video>
 </div>
 
 {% schema %}
 {
-  "name": "featured-video",
+  "name": "t:sections.featured-video.name",
   "tag": "section",
   "class": "spaced-section spaced-section--full-width",
   "settings": [
@@ -12,7 +12,7 @@
          "type": "text",
          "id": "videoSrc",
         "default": "https://www.youtube.com/watch?v=dIP7wWY4Znw",
-         "label": "t:sections.featured-collection.settings.videoSrc.label"
+         "label": "t:sections.featured-video.settings.videoSrc.label"
      }
   ]
 }
