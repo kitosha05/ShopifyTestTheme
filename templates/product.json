@@ -71,6 +71,20 @@
           "type": "share",
           "settings": {
           }
+        },
+        "a479e850-7f2f-4a9f-a37e-df13cd14dac4": {
+          "type": "shopify:\/\/apps\/animatedheader\/blocks\/typedText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
+          "settings": {
+            "bannerSize": "small",
+            "backgroundColor": "#343f4f",
+            "baseString": "Shop",
+            "baseStringColor": "#FFFFFF",
+            "typedTextOne": "First Collection",
+            "typedTextTwo": "Second Collection",
+            "typedTextThree": "Third Collection",
+            "typedTextFour": "Fourth Collection",
+            "typedTextColor": "#fc6d6d"
+          }
         }
       },
       "block_order": [
@@ -82,7 +96,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "a479e850-7f2f-4a9f-a37e-df13cd14dac4"
       ],
       "settings": {
         "enable_sticky_info": true,
