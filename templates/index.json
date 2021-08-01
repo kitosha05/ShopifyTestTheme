@@ -3,17 +3,16 @@
     "16277585440b0c81fc": {
       "type": "apps",
       "blocks": {
-        "9904042f-5d3d-4c18-a802-865ccf91f72c": {
-          "type": "shopify:\/\/apps\/animatedheader\/blocks\/test\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
+        "c557a8aa-a885-4c17-ad9d-3031d9b04a12": {
+          "type": "shopify:\/\/apps\/animatedheader\/blocks\/morphingText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
           "settings": {
-            "heading": "Free Shipping On Orders $75+",
-            "description": "Free Gift With Purchase",
-            "image_1": "shopify:\/\/shop_images\/pug-life.jpg"
+            "heading": "Free Shipping With Orders $50+",
+            "description": "Free Returns"
           }
         }
       },
       "block_order": [
-        "9904042f-5d3d-4c18-a802-865ccf91f72c"
+        "c557a8aa-a885-4c17-ad9d-3031d9b04a12"
       ],
       "settings": {
         "include_margins": true
