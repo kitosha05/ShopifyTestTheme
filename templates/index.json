@@ -14,7 +14,7 @@
           "type": "shopify:\/\/apps\/animatedheader\/blocks\/typedText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
           "settings": {
             "bannerSize": "large",
-            "backgroundColor": "#121314",
+            "backgroundColor": "#0c43f5",
             "baseString": "Shop Sales In",
             "baseStringColor": "#fff9f9",
             "typedTextOne": "Shoes",
@@ -28,7 +28,7 @@
           "type": "shopify:\/\/apps\/animatedheader\/blocks\/glitchText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
           "settings": {
             "bannerSize": "large",
-            "backgroundColor": "#1A1B18",
+            "backgroundColor": "#1a1b18",
             "glitchString": "Shop Black Friday Now",
             "glitchStringColor": "#ffffff"
           }
