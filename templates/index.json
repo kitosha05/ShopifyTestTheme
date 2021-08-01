@@ -1,5 +1,24 @@
 {
   "sections": {
+    "16277585440b0c81fc": {
+      "type": "apps",
+      "blocks": {
+        "9904042f-5d3d-4c18-a802-865ccf91f72c": {
+          "type": "shopify:\/\/apps\/animatedheader\/blocks\/test\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
+          "settings": {
+            "heading": "Free Shipping On Orders $75+",
+            "description": "Free Gift With Purchase",
+            "image_1": "shopify:\/\/shop_images\/pug-life.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "9904042f-5d3d-4c18-a802-865ccf91f72c"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -195,35 +214,16 @@
         "color_scheme": "background-1",
         "full_width": true
       }
-    },
-    "16277585440b0c81fc": {
-      "type": "apps",
-      "blocks": {
-        "9904042f-5d3d-4c18-a802-865ccf91f72c": {
-          "type": "shopify:\/\/apps\/animatedheader\/blocks\/test\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
-          "settings": {
-            "heading": "Free Shipping On Orders $75+",
-            "description": "Free Gift With Purchase",
-            "image_1": "shopify:\/\/shop_images\/pug-life.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "9904042f-5d3d-4c18-a802-865ccf91f72c"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
+    "16277585440b0c81fc",
     "image_banner",
     "featured_products",
     "image_text",
     "1626900438e33d33f6",
     "1626900459ff6b2e8e",
     "1626900509a8e3a7e9",
-    "162690052372125327",
-    "16277585440b0c81fc"
+    "162690052372125327"
   ]
 }
