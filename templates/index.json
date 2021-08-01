@@ -13,7 +13,7 @@
         "e86aa6fe-39d4-4af5-a17f-014be492d4f4": {
           "type": "shopify:\/\/apps\/animatedheader\/blocks\/typedText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
           "settings": {
-            "typedSize": "large",
+            "typedSize": "small",
             "typedBackgroundColor": "#0b0b0b",
             "baseString": "Shop Sales In",
             "baseStringColor": "#fff9f9",
@@ -28,7 +28,7 @@
           "type": "shopify:\/\/apps\/animatedheader\/blocks\/glitchText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
           "settings": {
             "bannerSize": "large",
-            "backgroundColor": "#1a1b18",
+            "glitchBackgroundColor": "#343f4f",
             "glitchString": "Shop Black Friday Now",
             "glitchStringColor": "#ffffff"
           }
