@@ -1,5 +1,23 @@
 {
   "sections": {
+    "16277767281e71c19c": {
+      "type": "apps",
+      "blocks": {
+        "1351e941-7fd0-46d0-b635-1fc089b0c818": {
+          "type": "shopify:\/\/apps\/animatedheader\/blocks\/test\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
+          "settings": {
+            "heading": "Free Shipping on $75+",
+            "description": "Made In USA"
+          }
+        }
+      },
+      "block_order": [
+        "1351e941-7fd0-46d0-b635-1fc089b0c818"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -80,29 +98,11 @@
         "add_image_padding": false,
         "show_vendor": false
       }
-    },
-    "16277767281e71c19c": {
-      "type": "apps",
-      "blocks": {
-        "1351e941-7fd0-46d0-b635-1fc089b0c818": {
-          "type": "shopify:\/\/apps\/animatedheader\/blocks\/test\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
-          "settings": {
-            "heading": "Free Shipping on $75+",
-            "description": "Made In USA"
-          }
-        }
-      },
-      "block_order": [
-        "1351e941-7fd0-46d0-b635-1fc089b0c818"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
+    "16277767281e71c19c",
     "main",
-    "product-recommendations",
-    "16277767281e71c19c"
+    "product-recommendations"
   ]
 }
