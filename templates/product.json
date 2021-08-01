@@ -40,6 +40,20 @@
             "text_style": "subtitle"
           }
         },
+        "a479e850-7f2f-4a9f-a37e-df13cd14dac4": {
+          "type": "shopify:\/\/apps\/animatedheader\/blocks\/typedText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
+          "settings": {
+            "bannerSize": "small",
+            "backgroundColor": "#343f4f",
+            "baseString": "Features:",
+            "baseStringColor": "#ffffff",
+            "typedTextOne": "High Quality Parts",
+            "typedTextTwo": "Patented Design",
+            "typedTextThree": "Lifetime Warranty",
+            "typedTextFour": "Made In USA",
+            "typedTextColor": "#fc6d6d"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -71,33 +85,19 @@
           "type": "share",
           "settings": {
           }
-        },
-        "a479e850-7f2f-4a9f-a37e-df13cd14dac4": {
-          "type": "shopify:\/\/apps\/animatedheader\/blocks\/typedText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
-          "settings": {
-            "bannerSize": "small",
-            "backgroundColor": "#343f4f",
-            "baseString": "Features:",
-            "baseStringColor": "#ffffff",
-            "typedTextOne": "High Quality Parts",
-            "typedTextTwo": "Patented Design",
-            "typedTextThree": "Lifetime Warranty",
-            "typedTextFour": "Made In USA",
-            "typedTextColor": "#fc6d6d"
-          }
         }
       },
       "block_order": [
         "vendor",
         "title",
         "subtitle",
+        "a479e850-7f2f-4a9f-a37e-df13cd14dac4",
         "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share",
-        "a479e850-7f2f-4a9f-a37e-df13cd14dac4"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
