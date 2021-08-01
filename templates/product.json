@@ -77,12 +77,12 @@
           "settings": {
             "bannerSize": "small",
             "backgroundColor": "#343f4f",
-            "baseString": "Shop",
-            "baseStringColor": "#FFFFFF",
-            "typedTextOne": "First Collection",
-            "typedTextTwo": "Second Collection",
-            "typedTextThree": "Third Collection",
-            "typedTextFour": "Fourth Collection",
+            "baseString": "Features:",
+            "baseStringColor": "#ffffff",
+            "typedTextOne": "High Quality Parts",
+            "typedTextTwo": "Patented Design",
+            "typedTextThree": "Lifetime Warranty",
+            "typedTextFour": "Made In USA",
             "typedTextColor": "#fc6d6d"
           }
         }
