@@ -9,10 +9,21 @@
             "heading": "Free Shipping With Orders $50+",
             "description": "Free Returns"
           }
+        },
+        "e86aa6fe-39d4-4af5-a17f-014be492d4f4": {
+          "type": "shopify:\/\/apps\/animatedheader\/blocks\/typedText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
+          "settings": {
+            "baseString": "We Are",
+            "typedTextOne": "Strong",
+            "typedTextTwo": "Fierce",
+            "typedTextThree": "Proud",
+            "typedTextFour": "Determined"
+          }
         }
       },
       "block_order": [
-        "c557a8aa-a885-4c17-ad9d-3031d9b04a12"
+        "c557a8aa-a885-4c17-ad9d-3031d9b04a12",
+        "e86aa6fe-39d4-4af5-a17f-014be492d4f4"
       ],
       "settings": {
         "include_margins": true
