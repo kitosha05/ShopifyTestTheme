@@ -30,6 +30,7 @@
             "bannerSize": "small",
             "glitchBackgroundColor": "#1a1b18",
             "glitchString": "Shop Black Friday Now",
+            "glitchFont": "megrim_n4",
             "glitchStringColor": "#ffffff"
           }
         },
