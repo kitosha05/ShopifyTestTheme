@@ -27,7 +27,7 @@
         "726b8878-fcb6-49ef-b3da-100674663043": {
           "type": "shopify:\/\/apps\/animatedheader\/blocks\/glitchText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
           "settings": {
-            "bannerSize": "large",
+            "bannerSize": "small",
             "glitchBackgroundColor": "#1a1b18",
             "glitchString": "Shop Black Friday Now",
             "glitchStringColor": "#ffffff"
