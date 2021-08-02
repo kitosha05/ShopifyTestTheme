@@ -45,7 +45,7 @@
         "5e736999-6bf4-4a05-8b78-cdcd953279b1": {
           "type": "shopify:\/\/apps\/animatedheader\/blocks\/animatedGradient\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
           "settings": {
-            "gradientBannerSize": "large",
+            "gradientBannerSize": "small",
             "gradientBackground": "#22f0f0",
             "gradientText": "Free Gift With Purchase",
             "gradientFont": "roboto_n4",
