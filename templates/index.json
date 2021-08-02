@@ -32,12 +32,22 @@
             "glitchString": "Shop Black Friday Now",
             "glitchStringColor": "#ffffff"
           }
+        },
+        "04e593bb-f517-4a1d-b959-2d7fd8d6b4d3": {
+          "type": "shopify:\/\/apps\/animatedheader\/blocks\/glowingText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
+          "settings": {
+            "glowingBannerSize": "large",
+            "glowingBackgroundColor": "#343f4f",
+            "glowingText": "Shop Black Friday Now",
+            "glowingStringColor": "#FFFFFF"
+          }
         }
       },
       "block_order": [
         "c557a8aa-a885-4c17-ad9d-3031d9b04a12",
         "e86aa6fe-39d4-4af5-a17f-014be492d4f4",
-        "726b8878-fcb6-49ef-b3da-100674663043"
+        "726b8878-fcb6-49ef-b3da-100674663043",
+        "04e593bb-f517-4a1d-b959-2d7fd8d6b4d3"
       ],
       "settings": {
         "include_margins": true
