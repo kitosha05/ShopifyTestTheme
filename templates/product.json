@@ -2,18 +2,6 @@
   "sections": {
     "16277767281e71c19c": {
       "type": "apps",
-      "blocks": {
-        "78df55cd-7fb6-4940-82f7-ef9b1c6c2c61": {
-          "type": "shopify:\/\/apps\/animatedheader\/blocks\/animatedBackgroundText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
-          "settings": {
-            "heading": "Hello From App",
-            "image_1": "shopify:\/\/shop_images\/thin-plant-stems-in-sun.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "78df55cd-7fb6-4940-82f7-ef9b1c6c2c61"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -43,8 +31,8 @@
         "a479e850-7f2f-4a9f-a37e-df13cd14dac4": {
           "type": "shopify:\/\/apps\/animatedheader\/blocks\/typedText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
           "settings": {
-            "bannerSize": "small",
-            "backgroundColor": "#343f4f",
+            "typedSize": "small",
+            "typedBackgroundColor": "#343f4f",
             "baseString": "Features:",
             "baseStringColor": "#ffffff",
             "typedTextOne": "High Quality Parts",
