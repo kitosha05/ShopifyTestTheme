@@ -70,40 +70,6 @@
         "include_margins": true
       }
     },
-    "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "button"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/mini-doberman-pinscher-face.jpg",
-        "image_2": "shopify:\/\/shop_images\/pug-life.jpg",
-        "desktop_text_box_position": "flex-end",
-        "color_scheme": "accent-1",
-        "stack_images_on_mobile": true,
-        "adapt_height_first_image": false
-      }
-    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -269,7 +235,6 @@
   },
   "order": [
     "16277585440b0c81fc",
-    "image_banner",
     "featured_products",
     "image_text",
     "1626900438e33d33f6",
