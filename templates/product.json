@@ -2,6 +2,21 @@
   "sections": {
     "16277767281e71c19c": {
       "type": "apps",
+      "blocks": {
+        "319a0ceb-5628-475b-bb05-a2153783105f": {
+          "type": "shopify:\/\/apps\/animatedheader\/blocks\/glowingText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
+          "settings": {
+            "glowingBannerSize": "large",
+            "glowingBackgroundColor": "#343f4f",
+            "glowingText": "ON SALE NOW",
+            "glowingFont": "work_sans_n6",
+            "glowingStringColor": "#FFFFFF"
+          }
+        }
+      },
+      "block_order": [
+        "319a0ceb-5628-475b-bb05-a2153783105f"
+      ],
       "settings": {
         "include_margins": true
       }
@@ -34,11 +49,13 @@
             "typedSize": "small",
             "typedBackgroundColor": "#343f4f",
             "baseString": "Features:",
+            "baseFont": "work_sans_n6",
             "baseStringColor": "#ffffff",
             "typedTextOne": "High Quality Parts",
             "typedTextTwo": "Patented Design",
             "typedTextThree": "Lifetime Warranty",
             "typedTextFour": "Made In USA",
+            "dynamicFont": "work_sans_n6",
             "typedTextColor": "#fc6d6d"
           }
         },

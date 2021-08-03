@@ -1,10 +1,41 @@
 {
   "sections": {
+    "162801286975f1ba1b": {
+      "type": "apps",
+      "blocks": {
+        "22b01fdf-597a-499a-bf5d-7da6eaf21a43": {
+          "type": "shopify:\/\/apps\/animatedheader\/blocks\/animatedGradient\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
+          "settings": {
+            "gradientBannerSize": "large",
+            "gradientBackground": "#05f5f5",
+            "gradientText": "Shop All Collections",
+            "gradientFont": "work_sans_n6",
+            "gradientOne": "#6dadfc",
+            "gradientTwo": "#7af272",
+            "gradientThree": "#d072f2"
+          }
+        }
+      },
+      "block_order": [
+        "22b01fdf-597a-499a-bf5d-7da6eaf21a43"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "main": {
-      "type": "main-list-collections"
+      "type": "main-list-collections",
+      "settings": {
+        "title": "Collections",
+        "sort": "alphabetical",
+        "image_ratio": "adapt",
+        "color_scheme": "background-1",
+        "image_padding": false
+      }
     }
   },
   "order": [
+    "162801286975f1ba1b",
     "main"
   ]
 }
