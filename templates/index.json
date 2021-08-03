@@ -16,11 +16,13 @@
             "typedSize": "small",
             "typedBackgroundColor": "#1878b9",
             "baseString": "Shop Sales In",
+            "baseFont": "megrim_n4",
             "baseStringColor": "#fff9f9",
             "typedTextOne": "Shoes",
             "typedTextTwo": "Jackets",
             "typedTextThree": "Jewelery",
             "typedTextFour": "Hats",
+            "dynamicFont": "megrim_n4",
             "typedTextColor": "#e22120"
           }
         },
