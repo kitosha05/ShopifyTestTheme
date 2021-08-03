@@ -7,10 +7,11 @@
           "type": "shopify:\/\/apps\/animatedheader\/blocks\/morphingText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
           "settings": {
             "morphBannerSize": "small",
-            "morphBackground": "#111212",
+            "morphBackground": "#112be8",
             "morphTextOne": "Free Gift With Purchase",
             "morphTextTwo": "Free Shipping Over $50",
-            "morphFont": "work_sans_n6"
+            "morphFont": "armata_n4",
+            "morphFontColor": "#ffffff"
           }
         },
         "e86aa6fe-39d4-4af5-a17f-014be492d4f4": {
