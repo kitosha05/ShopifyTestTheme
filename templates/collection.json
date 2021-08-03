@@ -7,10 +7,10 @@
           "type": "shopify:\/\/apps\/animatedheader\/blocks\/glitchText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
           "settings": {
             "bannerSize": "large",
-            "glitchBackgroundColor": "#343f4f",
+            "glitchBackgroundColor": "#337be4",
             "glitchString": "Shop This Collection",
             "glitchFont": "work_sans_n6",
-            "glitchStringColor": "#FFFFFF"
+            "glitchStringColor": "#ffffff"
           }
         }
       },

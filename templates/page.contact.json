@@ -1,26 +1,5 @@
 {
   "sections": {
-    "16280130040f0d23c4": {
-      "type": "apps",
-      "blocks": {
-        "b2631125-7c57-41f6-85d2-7c7f3b6155f1": {
-          "type": "shopify:\/\/apps\/animatedheader\/blocks\/glitchText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
-          "settings": {
-            "bannerSize": "large",
-            "glitchBackgroundColor": "#3e444e",
-            "glitchString": "Contact Us",
-            "glitchFont": "work_sans_n6",
-            "glitchStringColor": "#05f5f5"
-          }
-        }
-      },
-      "block_order": [
-        "b2631125-7c57-41f6-85d2-7c7f3b6155f1"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -34,7 +13,6 @@
     }
   },
   "order": [
-    "16280130040f0d23c4",
     "main",
     "form"
   ]
