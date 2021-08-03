@@ -1,14 +1,49 @@
 {
   "sections": {
     "banner": {
-      "type": "main-collection-banner"
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false
+      }
     },
     "product-grid": {
-      "type": "main-collection-product-grid"
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_vendor": false,
+        "enable_filtering": true,
+        "enable_sorting": true
+      }
+    },
+    "162801276017ca7d23": {
+      "type": "apps",
+      "blocks": {
+        "3cbfd105-9edb-408b-9692-632951ec307d": {
+          "type": "shopify:\/\/apps\/animatedheader\/blocks\/glitchText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
+          "settings": {
+            "bannerSize": "large",
+            "glitchBackgroundColor": "#343f4f",
+            "glitchString": "Shop This Collection",
+            "glitchFont": "work_sans_n6",
+            "glitchStringColor": "#FFFFFF"
+          }
+        }
+      },
+      "block_order": [
+        "3cbfd105-9edb-408b-9692-632951ec307d"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "banner",
-    "product-grid"
+    "product-grid",
+    "162801276017ca7d23"
   ]
 }
