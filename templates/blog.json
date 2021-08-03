@@ -1,10 +1,39 @@
 {
   "sections": {
+    "1628013583fb9ea60c": {
+      "type": "apps",
+      "blocks": {
+        "a32875b3-3125-41f9-95c0-a9ca139eb866": {
+          "type": "shopify:\/\/apps\/animatedheader\/blocks\/animatedGradient\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
+          "settings": {
+            "gradientBannerSize": "large",
+            "gradientBackground": "#FFFFFF",
+            "gradientText": "Check Out Our Blog",
+            "gradientFont": "work_sans_n6",
+            "gradientOne": "#6dadfc",
+            "gradientTwo": "#7af272",
+            "gradientThree": "#d072f2"
+          }
+        }
+      },
+      "block_order": [
+        "a32875b3-3125-41f9-95c0-a9ca139eb866"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "main": {
-      "type": "main-blog"
+      "type": "main-blog",
+      "settings": {
+        "show_image": true,
+        "show_date": true,
+        "show_author": false
+      }
     }
   },
   "order": [
+    "1628013583fb9ea60c",
     "main"
   ]
 }
