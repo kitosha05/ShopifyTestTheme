@@ -1,5 +1,26 @@
 {
   "sections": {
+    "16281172540fa28d8d": {
+      "type": "apps",
+      "blocks": {
+        "b4717cbc-1774-4c42-9405-de0ce3881ba1": {
+          "type": "shopify:\/\/apps\/animatedheader\/blocks\/glitchText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
+          "settings": {
+            "bannerSize": "large",
+            "glitchBackgroundColor": "#343f4f",
+            "glitchString": "Shop Black Friday Now",
+            "glitchFont": "work_sans_n6",
+            "glitchStringColor": "#FFFFFF"
+          }
+        }
+      },
+      "block_order": [
+        "b4717cbc-1774-4c42-9405-de0ce3881ba1"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -161,36 +182,15 @@
         "color_scheme": "background-1",
         "full_width": true
       }
-    },
-    "16281172540fa28d8d": {
-      "type": "apps",
-      "blocks": {
-        "b4717cbc-1774-4c42-9405-de0ce3881ba1": {
-          "type": "shopify:\/\/apps\/animatedheader\/blocks\/glitchText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
-          "settings": {
-            "bannerSize": "large",
-            "glitchBackgroundColor": "#343f4f",
-            "glitchString": "Shop Black Friday Now",
-            "glitchFont": "work_sans_n6",
-            "glitchStringColor": "#FFFFFF"
-          }
-        }
-      },
-      "block_order": [
-        "b4717cbc-1774-4c42-9405-de0ce3881ba1"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
+    "16281172540fa28d8d",
     "featured_products",
     "image_text",
     "1626900438e33d33f6",
     "1626900459ff6b2e8e",
     "1626900509a8e3a7e9",
-    "162690052372125327",
-    "16281172540fa28d8d"
+    "162690052372125327"
   ]
 }
