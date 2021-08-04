@@ -1,79 +1,5 @@
 {
   "sections": {
-    "16277585440b0c81fc": {
-      "type": "apps",
-      "blocks": {
-        "c557a8aa-a885-4c17-ad9d-3031d9b04a12": {
-          "type": "shopify:\/\/apps\/animatedheader\/blocks\/morphingText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
-          "settings": {
-            "morphBannerSize": "small",
-            "morphBackground": "#112be8",
-            "morphTextOne": "Free Gift With Purchase",
-            "morphTextTwo": "Free Shipping Over $50",
-            "morphFont": "armata_n4",
-            "morphFontColor": "#ffffff"
-          }
-        },
-        "e86aa6fe-39d4-4af5-a17f-014be492d4f4": {
-          "type": "shopify:\/\/apps\/animatedheader\/blocks\/typedText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
-          "settings": {
-            "typedSize": "small",
-            "typedBackgroundColor": "#1878b9",
-            "baseString": "Shop Sales In",
-            "baseFont": "megrim_n4",
-            "baseStringColor": "#fff9f9",
-            "typedTextOne": "Shoes",
-            "typedTextTwo": "Jackets",
-            "typedTextThree": "Jewelery",
-            "typedTextFour": "Hats",
-            "dynamicFont": "megrim_n4",
-            "typedTextColor": "#e22120"
-          }
-        },
-        "726b8878-fcb6-49ef-b3da-100674663043": {
-          "type": "shopify:\/\/apps\/animatedheader\/blocks\/glitchText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
-          "settings": {
-            "bannerSize": "small",
-            "glitchBackgroundColor": "#05f537",
-            "glitchString": "Shop Black Friday Now",
-            "glitchFont": "roboto_n4",
-            "glitchStringColor": "#ffffff"
-          }
-        },
-        "04e593bb-f517-4a1d-b959-2d7fd8d6b4d3": {
-          "type": "shopify:\/\/apps\/animatedheader\/blocks\/glowingText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
-          "settings": {
-            "glowingBannerSize": "small",
-            "glowingBackgroundColor": "#343f4f",
-            "glowingText": "Shop Black Friday Now",
-            "glowingFont": "megrim_n4",
-            "glowingStringColor": "#ffffff"
-          }
-        },
-        "5e736999-6bf4-4a05-8b78-cdcd953279b1": {
-          "type": "shopify:\/\/apps\/animatedheader\/blocks\/animatedGradient\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
-          "settings": {
-            "gradientBannerSize": "small",
-            "gradientBackground": "#22f0f0",
-            "gradientText": "Free Gift With Purchase",
-            "gradientFont": "roboto_n4",
-            "gradientOne": "#6dadfc",
-            "gradientTwo": "#7af272",
-            "gradientThree": "#d072f2"
-          }
-        }
-      },
-      "block_order": [
-        "c557a8aa-a885-4c17-ad9d-3031d9b04a12",
-        "e86aa6fe-39d4-4af5-a17f-014be492d4f4",
-        "726b8878-fcb6-49ef-b3da-100674663043",
-        "04e593bb-f517-4a1d-b959-2d7fd8d6b4d3",
-        "5e736999-6bf4-4a05-8b78-cdcd953279b1"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -238,7 +164,6 @@
     }
   },
   "order": [
-    "16277585440b0c81fc",
     "featured_products",
     "image_text",
     "1626900438e33d33f6",
