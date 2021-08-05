@@ -12,10 +12,23 @@
             "glowingFont": "work_sans_n6",
             "glowingStringColor": "#FFFFFF"
           }
+        },
+        "865b37d9-3812-4b81-a589-7bb9e29ff3b4": {
+          "type": "shopify:\/\/apps\/animatedheader\/blocks\/animatedGradient\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
+          "settings": {
+            "gradientBannerSize": "large",
+            "gradientBackground": "#111212",
+            "gradientText": "Free Gift With Purchase",
+            "gradientFont": "work_sans_n6",
+            "gradientOne": "#6dadfc",
+            "gradientTwo": "#7af272",
+            "gradientThree": "#d072f2"
+          }
         }
       },
       "block_order": [
-        "15d6163a-9b53-4cea-b885-b3a267ff2f17"
+        "15d6163a-9b53-4cea-b885-b3a267ff2f17",
+        "865b37d9-3812-4b81-a589-7bb9e29ff3b4"
       ],
       "settings": {
         "include_margins": true
