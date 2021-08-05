@@ -3,25 +3,19 @@
     "1628184621afa8d370": {
       "type": "apps",
       "blocks": {
-        "79a6a46b-5e40-4f96-8e29-f29a8ba6be35": {
-          "type": "shopify:\/\/apps\/animatedheader\/blocks\/typedText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
+        "15d6163a-9b53-4cea-b885-b3a267ff2f17": {
+          "type": "shopify:\/\/apps\/animatedheader\/blocks\/glowingText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
           "settings": {
-            "typedSize": "large",
-            "typedBackgroundColor": "#343f4f",
-            "baseString": "Shop",
-            "baseFont": "work_sans_n6",
-            "baseStringColor": "#FFFFFF",
-            "typedTextOne": "First Collection",
-            "typedTextTwo": "Second Collection",
-            "typedTextThree": "Third Collection",
-            "typedTextFour": "Fourth Collection",
-            "dynamicFont": "work_sans_n6",
-            "typedTextColor": "#fc6d6d"
+            "glowingBannerSize": "large",
+            "glowingBackgroundColor": "#343f4f",
+            "glowingText": "Shop Black Friday Now",
+            "glowingFont": "work_sans_n6",
+            "glowingStringColor": "#FFFFFF"
           }
         }
       },
       "block_order": [
-        "79a6a46b-5e40-4f96-8e29-f29a8ba6be35"
+        "15d6163a-9b53-4cea-b885-b3a267ff2f17"
       ],
       "settings": {
         "include_margins": true
