@@ -14,10 +14,27 @@
             "gradientTwo": "#7af272",
             "gradientThree": "#d072f2"
           }
+        },
+        "79a6a46b-5e40-4f96-8e29-f29a8ba6be35": {
+          "type": "shopify:\/\/apps\/animatedheader\/blocks\/typedText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
+          "settings": {
+            "typedSize": "large",
+            "typedBackgroundColor": "#343f4f",
+            "baseString": "Shop",
+            "baseFont": "work_sans_n6",
+            "baseStringColor": "#FFFFFF",
+            "typedTextOne": "First Collection",
+            "typedTextTwo": "Second Collection",
+            "typedTextThree": "Third Collection",
+            "typedTextFour": "Fourth Collection",
+            "dynamicFont": "work_sans_n6",
+            "typedTextColor": "#fc6d6d"
+          }
         }
       },
       "block_order": [
-        "9fdef3d7-b18d-4102-9c8c-b839e636e055"
+        "9fdef3d7-b18d-4102-9c8c-b839e636e055",
+        "79a6a46b-5e40-4f96-8e29-f29a8ba6be35"
       ],
       "settings": {
         "include_margins": true
