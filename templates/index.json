@@ -3,7 +3,7 @@
     "16281172540fa28d8d": {
       "type": "apps",
       "blocks": {
-        "b4717cbc-1774-4c42-9405-de0ce3881ba1": {
+        "0affb3a1-f7b5-4cb2-bf87-e87c8706efb9": {
           "type": "shopify:\/\/apps\/animatedheader\/blocks\/glitchText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
           "settings": {
             "bannerSize": "large",
@@ -12,22 +12,10 @@
             "glitchFont": "work_sans_n6",
             "glitchStringColor": "#FFFFFF"
           }
-        },
-        "b4e98af8-f421-49c3-af49-8315efd236a5": {
-          "type": "shopify:\/\/apps\/animatedheader\/blocks\/morphingText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
-          "settings": {
-            "morphBannerSize": "large",
-            "morphBackground": "#111212",
-            "morphTextOne": "Free Gift With Purchase",
-            "morphTextTwo": "Free Shipping Over $50",
-            "morphFont": "work_sans_n6",
-            "morphFontColor": "#FFFFFF"
-          }
         }
       },
       "block_order": [
-        "b4717cbc-1774-4c42-9405-de0ce3881ba1",
-        "b4e98af8-f421-49c3-af49-8315efd236a5"
+        "0affb3a1-f7b5-4cb2-bf87-e87c8706efb9"
       ],
       "settings": {
         "include_margins": true
