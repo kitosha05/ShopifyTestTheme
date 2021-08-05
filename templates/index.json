@@ -24,11 +24,23 @@
             "gradientTwo": "#7af272",
             "gradientThree": "#d072f2"
           }
+        },
+        "fb380baa-ca2a-42e2-8fb1-4352a06359bc": {
+          "type": "shopify:\/\/apps\/animatedheader\/blocks\/morphingText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
+          "settings": {
+            "morphBannerSize": "large",
+            "morphBackground": "#111212",
+            "morphTextOne": "Free Gift With Purchase",
+            "morphTextTwo": "Free Shipping Over $50",
+            "morphFont": "work_sans_n6",
+            "morphFontColor": "#FFFFFF"
+          }
         }
       },
       "block_order": [
         "15d6163a-9b53-4cea-b885-b3a267ff2f17",
-        "865b37d9-3812-4b81-a589-7bb9e29ff3b4"
+        "865b37d9-3812-4b81-a589-7bb9e29ff3b4",
+        "fb380baa-ca2a-42e2-8fb1-4352a06359bc"
       ],
       "settings": {
         "include_margins": true
