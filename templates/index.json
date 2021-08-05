@@ -3,18 +3,6 @@
     "1628184621afa8d370": {
       "type": "apps",
       "blocks": {
-        "9fdef3d7-b18d-4102-9c8c-b839e636e055": {
-          "type": "shopify:\/\/apps\/animatedheader\/blocks\/animatedGradient\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
-          "settings": {
-            "gradientBannerSize": "large",
-            "gradientBackground": "#111212",
-            "gradientText": "Free Gift With Purchase",
-            "gradientFont": "work_sans_n6",
-            "gradientOne": "#6dadfc",
-            "gradientTwo": "#7af272",
-            "gradientThree": "#d072f2"
-          }
-        },
         "79a6a46b-5e40-4f96-8e29-f29a8ba6be35": {
           "type": "shopify:\/\/apps\/animatedheader\/blocks\/typedText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
           "settings": {
@@ -33,7 +21,6 @@
         }
       },
       "block_order": [
-        "9fdef3d7-b18d-4102-9c8c-b839e636e055",
         "79a6a46b-5e40-4f96-8e29-f29a8ba6be35"
       ],
       "settings": {
