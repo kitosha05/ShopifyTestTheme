@@ -10,7 +10,7 @@
             "glowingBackgroundColor": "#343f4f",
             "glowingText": "Shop Black Friday Now",
             "glowingFont": "work_sans_n6",
-            "glowingStringColor": "#FFFFFF"
+            "glowingStringColor": "#ffffff"
           }
         },
         "865b37d9-3812-4b81-a589-7bb9e29ff3b4": {
@@ -33,14 +33,31 @@
             "morphTextOne": "Free Gift With Purchase",
             "morphTextTwo": "Free Shipping Over $50",
             "morphFont": "work_sans_n6",
-            "morphFontColor": "#FFFFFF"
+            "morphFontColor": "#ffffff"
+          }
+        },
+        "acc825fa-a216-473a-abfc-a6be9fbe1110": {
+          "type": "shopify:\/\/apps\/animatedheader\/blocks\/typedText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
+          "settings": {
+            "typedSize": "large",
+            "typedBackgroundColor": "#343f4f",
+            "baseString": "Shop",
+            "baseFont": "work_sans_n6",
+            "baseStringColor": "#FFFFFF",
+            "typedTextOne": "First Collection",
+            "typedTextTwo": "Second Collection",
+            "typedTextThree": "Third Collection",
+            "typedTextFour": "Fourth Collection",
+            "dynamicFont": "work_sans_n6",
+            "typedTextColor": "#fc6d6d"
           }
         }
       },
       "block_order": [
         "15d6163a-9b53-4cea-b885-b3a267ff2f17",
         "865b37d9-3812-4b81-a589-7bb9e29ff3b4",
-        "fb380baa-ca2a-42e2-8fb1-4352a06359bc"
+        "fb380baa-ca2a-42e2-8fb1-4352a06359bc",
+        "acc825fa-a216-473a-abfc-a6be9fbe1110"
       ],
       "settings": {
         "include_margins": true
