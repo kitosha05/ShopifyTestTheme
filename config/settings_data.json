@@ -1,27 +1,18 @@
 {
   "current": {
+    "colors_accent_1": "#5c0d15",
+    "colors_accent_2": "#dccacd",
+    "colors_background_2": "#ad848c",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
-        "blocks": {
-          "announcement-bar-0": {
-            "type": "announcement",
-            "settings": {
-              "text": "Welcome to our store",
-              "color_scheme": "background-2",
-              "link": ""
-            }
-          }
-        },
-        "block_order": [
-          "announcement-bar-0"
-        ],
         "settings": {
         }
       },
       "header": {
         "type": "header",
         "settings": {
+          "logo": "shopify:\/\/shop_images\/cougarlogo.png",
           "logo_width": 100,
           "logo_position": "middle-left",
           "menu": "main-menu",
