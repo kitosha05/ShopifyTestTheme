@@ -1,7 +1,8 @@
 {
   "current": {
     "colors_accent_1": "#5c0d15",
-    "colors_accent_2": "#dccacd",
+    "colors_accent_2": "#a3434c",
+    "colors_background_1": "#ffffff",
     "colors_background_2": "#ad848c",
     "sections": {
       "announcement-bar": {
@@ -26,7 +27,7 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
+              "heading": "Quick Links",
               "menu": "footer"
             }
           }
@@ -35,8 +36,8 @@
           "footer-0"
         ],
         "settings": {
-          "color_scheme": "accent-2",
-          "newsletter_enable": true,
+          "color_scheme": "accent-1",
+          "newsletter_enable": false,
           "newsletter_heading": "Sign up to our emails",
           "show_social": true,
           "enable_country_selector": true,
