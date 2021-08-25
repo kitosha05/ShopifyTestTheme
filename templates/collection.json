@@ -2,21 +2,6 @@
   "sections": {
     "162801276017ca7d23": {
       "type": "apps",
-      "blocks": {
-        "3cbfd105-9edb-408b-9692-632951ec307d": {
-          "type": "shopify:\/\/apps\/animatedheader\/blocks\/glitchText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
-          "settings": {
-            "bannerSize": "large",
-            "glitchBackgroundColor": "#337be4",
-            "glitchString": "Shop This Collection",
-            "glitchFont": "work_sans_n6",
-            "glitchStringColor": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "3cbfd105-9edb-408b-9692-632951ec307d"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -24,7 +9,7 @@
     "banner": {
       "type": "main-collection-banner",
       "settings": {
-        "show_collection_description": false,
+        "show_collection_description": true,
         "show_collection_image": false
       }
     },
