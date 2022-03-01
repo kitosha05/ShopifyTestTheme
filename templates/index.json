@@ -3,7 +3,6 @@
     "1629898273ab346a8b": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/team.jpg",
         "desktop_text_box_position": "flex-end",
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
@@ -58,11 +57,106 @@
         "add_image_padding": false,
         "show_vendor": false
       }
+    },
+    "164617155714d8ca7f": {
+      "type": "apps",
+      "blocks": {
+        "7684b02f-9641-4a57-92f1-675dc48d01db": {
+          "type": "shopify:\/\/apps\/animatedheader\/blocks\/glitchText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
+          "settings": {
+            "bannerSize": "large",
+            "glitchBackgroundColor": "#46344f",
+            "glitchString": "Online Sex Classes",
+            "glitchFont": "work_sans_n6",
+            "glitchStringColor": "#FFFFFF"
+          }
+        }
+      },
+      "block_order": [
+        "7684b02f-9641-4a57-92f1-675dc48d01db"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "164617157743dd1dac": {
+      "type": "apps",
+      "blocks": {
+        "aa85599e-2f2c-426b-92db-db9813132eef": {
+          "type": "shopify:\/\/apps\/animatedheader\/blocks\/glowingText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
+          "settings": {
+            "glowingBannerSize": "large",
+            "glowingBackgroundColor": "#46344f",
+            "glowingText": "Shop Black Friday Now",
+            "glowingFont": "work_sans_n6",
+            "glowingStringColor": "#FFFFFF"
+          }
+        }
+      },
+      "block_order": [
+        "aa85599e-2f2c-426b-92db-db9813132eef"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "164617158806223cef": {
+      "type": "apps",
+      "blocks": {
+        "bbd642be-1d1f-4a50-b028-4741bf0c093e": {
+          "type": "shopify:\/\/apps\/animatedheader\/blocks\/morphingText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
+          "settings": {
+            "morphBannerSize": "large",
+            "morphBackground": "#111212",
+            "morphTextOne": "Free Gift With Purchase",
+            "morphTextTwo": "Free Shipping Over $50",
+            "morphFont": "work_sans_n6",
+            "morphFontColor": "#FFFFFF"
+          }
+        }
+      },
+      "block_order": [
+        "bbd642be-1d1f-4a50-b028-4741bf0c093e"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "164617162052603221": {
+      "type": "apps",
+      "blocks": {
+        "05262529-9fd0-415e-a00c-ecf3d6eb718d": {
+          "type": "shopify:\/\/apps\/animatedheader\/blocks\/typedText\/98bcdcd5-3628-4de6-9b97-e5f68e96df33",
+          "settings": {
+            "typedSize": "large",
+            "typedBackgroundColor": "#343f4f",
+            "baseString": "Shop",
+            "baseFont": "work_sans_n6",
+            "baseStringColor": "#FFFFFF",
+            "typedTextOne": "First Collection",
+            "typedTextTwo": "Second Collection",
+            "typedTextThree": "Third Collection",
+            "typedTextFour": "Fourth Collection",
+            "dynamicFont": "work_sans_n6",
+            "typedTextColor": "#fc6d6d"
+          }
+        }
+      },
+      "block_order": [
+        "05262529-9fd0-415e-a00c-ecf3d6eb718d"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "1629898273ab346a8b",
     "1626900459ff6b2e8e",
-    "16299057788253904c"
+    "16299057788253904c",
+    "164617155714d8ca7f",
+    "164617157743dd1dac",
+    "164617158806223cef",
+    "164617162052603221"
   ]
 }
