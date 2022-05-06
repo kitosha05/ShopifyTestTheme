@@ -66,9 +66,9 @@
           "settings": {
             "bannerSize": "large",
             "glitchBackgroundColor": "#46344f",
-            "glitchString": "Online Sex Classes",
+            "glitchString": "On Sale Now",
             "glitchFont": "work_sans_n6",
-            "glitchStringColor": "#FFFFFF"
+            "glitchStringColor": "#ffffff"
           }
         }
       },
@@ -89,7 +89,7 @@
             "glowingBackgroundColor": "#46344f",
             "glowingText": "Shop Black Friday Now",
             "glowingFont": "work_sans_n6",
-            "glowingStringColor": "#FFFFFF"
+            "glowingStringColor": "#ffffff"
           }
         }
       },
@@ -111,7 +111,7 @@
             "morphTextOne": "Free Gift With Purchase",
             "morphTextTwo": "Free Shipping Over $50",
             "morphFont": "work_sans_n6",
-            "morphFontColor": "#FFFFFF"
+            "morphFontColor": "#ffffff"
           }
         }
       },
@@ -132,7 +132,7 @@
             "typedBackgroundColor": "#343f4f",
             "baseString": "Shop",
             "baseFont": "work_sans_n6",
-            "baseStringColor": "#FFFFFF",
+            "baseStringColor": "#ffffff",
             "typedTextOne": "First Collection",
             "typedTextTwo": "Second Collection",
             "typedTextThree": "Third Collection",
