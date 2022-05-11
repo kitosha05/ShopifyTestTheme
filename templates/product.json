@@ -10,7 +10,7 @@
             "glowingBackgroundColor": "#343f4f",
             "glowingText": "ON SALE NOW",
             "glowingFont": "work_sans_n6",
-            "glowingStringColor": "#FFFFFF"
+            "glowingStringColor": "#ffffff"
           }
         }
       },
@@ -78,7 +78,7 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": false
           }
         },
         "description": {
@@ -89,6 +89,12 @@
         "share": {
           "type": "share",
           "settings": {
+          }
+        },
+        "b7906806-cae8-4e4e-b640-bb2780e5df94": {
+          "type": "shopify:\/\/apps\/recurring-billing-by-recharge\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
           }
         }
       },
@@ -102,7 +108,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "b7906806-cae8-4e4e-b640-bb2780e5df94"
       ],
       "settings": {
         "enable_sticky_info": true,
