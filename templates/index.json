@@ -9,41 +9,6 @@
         "adapt_height_first_image": false
       }
     },
-    "1626900459ff6b2e8e": {
-      "type": "rich-text",
-      "blocks": {
-        "1626900459ff6b2e8e-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Cinco Ranch Wrestling Team Store",
-            "heading_size": "medium"
-          }
-        },
-        "1626900459ff6b2e8e-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>100% Of Profits Go Towards Supporting the Cinco Ranch High School Wrestling Team. Thank You For Your Support!<\/p>"
-          }
-        },
-        "1626900459ff6b2e8e-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop",
-            "button_link": "shopify:\/\/collections\/all",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "1626900459ff6b2e8e-0",
-        "1626900459ff6b2e8e-1",
-        "1626900459ff6b2e8e-2"
-      ],
-      "settings": {
-        "color_scheme": "accent-1",
-        "full_width": true
-      }
-    },
     "16299057788253904c": {
       "type": "featured-collection",
       "settings": {
@@ -152,7 +117,6 @@
   },
   "order": [
     "1629898273ab346a8b",
-    "1626900459ff6b2e8e",
     "16299057788253904c",
     "164617155714d8ca7f",
     "164617157743dd1dac",
