@@ -84,11 +84,17 @@
         import { cartRequestAdd } from '{{ "liquid-ajax-cart-v1.10.1.js" | asset_url }}'
         const upsellButton = document.getElementById('upsellButton');
           upsellButton.addEventListener('click', ()=>{
+          			let selectedVariant = window.location.href.split('variant=')[1];
+                    let qty = document.getElementsByName('quantity')[0];
                   cartRequestAdd({ 
    						 items: [
       						{
         							id: 42119389151413,
        								 quantity: 1
+      						},
+                            {
+        							id: selectedVariant,
+       								 quantity: qty
       						}
     					]  
       			  });
