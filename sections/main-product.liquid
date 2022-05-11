@@ -79,7 +79,22 @@
               {{- block.settings.text -}}
             </p>
          {%- when 'upsell' -%}
-        <div>Go Pro</div>
+        <div><span>Add Popl Pro For $9.99/month </span><button id='upsellButton'>Add Both To Cart</button></div>
+       <script type="module">
+        import { cartRequestAdd } from '{{ "liquid-ajax-cart-v1.10.1.js" | asset_url }}'
+        const upsellButton = document.getElementById('upsellButton');
+          upsellButton.addEventListener('click', ()=>{
+                  cartRequestAdd({ 
+   						 items: [
+      						{
+        							id: 7244224331957,
+       								 quantity: 1
+      						}
+    					]  
+        });
+</script>                     
+          });
+        </script>
           {%- when 'title' -%}
             <h1 class="product__title" {{ block.shopify_attributes }}>
               {{ product.title | escape }}
