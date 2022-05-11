@@ -85,7 +85,7 @@
         const upsellButton = document.getElementById('upsellButton');
           upsellButton.addEventListener('click', ()=>{
           			let selectedVariant = window.location.href.split('variant=')[1];
-                    let qty = document.getElementsByName('quantity')[0];
+                    let qty = document.getElementsByName('quantity')[0].value;
                   cartRequestAdd({ 
    						 items: [
       						{
