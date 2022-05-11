@@ -10,7 +10,7 @@
             "glowingBackgroundColor": "#343f4f",
             "glowingText": "ON SALE NOW",
             "glowingFont": "work_sans_n6",
-            "glowingStringColor": "#FFFFFF"
+            "glowingStringColor": "#ffffff"
           }
         }
       },
@@ -81,6 +81,11 @@
             "show_dynamic_checkout": true
           }
         },
+        "f7ef50d0-55f8-40fb-8bd5-d0a5c84da592": {
+          "type": "upsell",
+          "settings": {
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -101,6 +106,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "f7ef50d0-55f8-40fb-8bd5-d0a5c84da592",
         "description",
         "share"
       ],
